@@ -1,0 +1,97 @@
+[
+  {
+    "username": "Dariya04",
+    "first_name": "Dariya",
+    "email": "dariya2634@gmail.com",
+    "birthday": "2005-03-23",
+    "group": "Friend",
+    "phones": [],
+    "created_at": "2026-04-26T18:22:04.499019+05:00"
+  },
+  {
+    "username": "MarlenDl",
+    "first_name": "Marlen",
+    "email": "marlen_k@gmail.com",
+    "birthday": "2002-12-04",
+    "group": "Family",
+    "phones": [],
+    "created_at": "2026-04-26T18:22:04.499019+05:00"
+  },
+  {
+    "username": "Batoni",
+    "first_name": "Batyr",
+    "email": "batyrr@someworkplace.kz",
+    "birthday": "2006-09-17",
+    "group": "Family",
+    "phones": [],
+    "created_at": "2026-04-26T18:22:04.499019+05:00"
+  },
+  {
+    "username": "Jibbs",
+    "first_name": "Zhibek",
+    "email": "jjiba@mails.ru",
+    "birthday": "2004-07-13",
+    "group": "Friend",
+    "phones": [],
+    "created_at": "2026-04-26T18:22:04.499019+05:00"
+  },
+  {
+    "username": "Aidyn007",
+    "first_name": "Aidyn",
+    "email": "aidyn_kg@gmail.com",
+    "birthday": "2007-10-18",
+    "group": "Friend",
+    "phones": [],
+    "created_at": "2026-04-26T18:22:04.499019+05:00"
+  },
+  {
+    "username": "Alimok",
+    "first_name": "Alima",
+    "email": "alima1123@gmail.com",
+    "birthday": "2003-04-07",
+    "group": "Family",
+    "phones": [],
+    "created_at": "2026-04-26T18:22:04.499019+05:00"
+  },
+  {
+    "username": "Sasha",
+    "first_name": "Aleksandra",
+    "email": "alex@gmail.com",
+    "birthday": "2010-05-03",
+    "group": "Work",
+    "phones": [],
+    "created_at": "2026-04-26T18:33:21.409405+05:00"
+  },
+  {
+    "username": "Amir U",
+    "first_name": "Amir",
+    "email": "amirbul@gmail.com",
+    "birthday": "2005-02-14",
+    "group": "Friend",
+    "phones": [],
+    "created_at": "2026-04-26T18:33:21.409405+05:00"
+  },
+  {
+    "username": "Alua S",
+    "first_name": "Alua",
+    "email": "aluaa@gmail.com",
+    "birthday": "2005-09-27",
+    "group": "Family",
+    "phones": [],
+    "created_at": "2026-04-26T18:33:21.409405+05:00"
+  },
+  {
+    "username": "Daulet",
+    "first_name": "Daulet",
+    "email": "daulet04@gmail.com",
+    "birthday": "2008-03-19",
+    "group": "Other",
+    "phones": [
+      {
+        "phone": "1212567280",
+        "type": "home"
+      }
+    ],
+    "created_at": "2026-04-26T18:41:37.168482+05:00"
+  }
+]

@@ -1,10 +1,9 @@
-username,first_name,phone
-Dariya04,Dariya,1234567890
-Marlen6767,Marlen,0987654321
-Batoni,Batyr,9328459212
-Jibbs,Jibek,1230984507
+username,first_name,email,birthday,group,phones
+Dariya04,Dariya,dariya2634@gmail.com,2005-03-23,Friend,1234567890
+MarlenDl,Marlen,marlen_k@gmail.com,2002-12-04,Family,0987654321
+Batoni,Batyr,batyrr@someworkplace.kz,2006-09-17,Family,9328459212
+Jibbs,Zhibek,jjiba@mails.ru,2004-07-13,Friend,1230984507
 
-// Let's try to add these contacts
-BitesTheDust,Aidyn,5551234567
-Elijah,Ilyas,1357924680
-Alimeowpur,Alima,2468135790
+Aidyn007,Aidyn,aidyn_kg@gmail.com,2007-10-18,Friend,5551234567
+Ilyas,Ilyas,i_amanbek@someworkplace.kz,2004-12-22,Work,1357924680
+Alimok,Alima,alima1123@gmail.com,2003-04-07,Family,2468135790

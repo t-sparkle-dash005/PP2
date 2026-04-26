@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Sasha",
+    "first_name": "Aleksandra",
+    "email": "alex@gmail.com",
+    "birthday": "2010-05-03",
+    "group": "Work",
+    "phones": []
+  },
+  {
+    "username": "Amir U",
+    "first_name": "Amir",
+    "email": "amirbul@gmail.com",
+    "birthday": "2005-02-14",
+    "group": "Friend",
+    "phones": []
+  },
+  {
+    "username": "Alua S",
+    "first_name": "Alua",
+    "email": "aluaa@gmail.com",
+    "birthday": "2005-09-27",
+    "group": "Family",
+    "phones": []
+  }
+]
